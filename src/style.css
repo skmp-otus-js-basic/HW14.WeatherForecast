@@ -1,0 +1,31 @@
+.group {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    margin: 10px;
+}
+
+#map {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+form {
+   margin-left: 10px;
+}
+
+.buttons {
+    height: 30px;
+    width: 95px;
+    background-color:gold;
+    border-color:gold;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.current {
+   background-color: gold;
+}
