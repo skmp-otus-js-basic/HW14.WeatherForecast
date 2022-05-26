@@ -1,10 +1,6 @@
 name: Sanity Check
 
-on:
-  push:
-    branches: [main, readme, workflows]
-  pull_request:
-    branches: [main]
+on: [push, pull_request]
 
 jobs:
   lint:
