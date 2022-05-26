@@ -2,9 +2,9 @@ name: Deploy to GithubPages
 
 on:
   push:
-    branches: [ main, readme, workflows ]
+    branches: [main, readme, workflows]
   pull_request:
-      branches: [ main ]
+    branches: [main]
 
 jobs:
   deploy-to-gh-pages:
