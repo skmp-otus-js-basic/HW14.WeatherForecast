@@ -2,6 +2,7 @@
 
 ### Демонстрация краткой сводки погоды в выбранном городе
 
+[![codecov](https://codecov.io/gh/svpotysev/Otus.JS-Basic.HW14.WeatherForecast/branch/main/graph/badge.svg)](https://codecov.io/gh/svpotysev/Otus.JS-Basic.HW14.WeatherForecast)
 [![Sanity check](https://github.com/svpotysev/Otus.JS-Basic.HW14.WeatherForecast/actions/workflows/sanity-check.yml/badge.svg)](https://github.com/svpotysev/Otus.JS-Basic.HW14.WeatherForecast/actions/workflows/sanity-check.yml)
 [![License][license-image]][license-url]
 
